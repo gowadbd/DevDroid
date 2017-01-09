@@ -73,16 +73,15 @@ if is_momod(msg) and matches[1] == 'م3' then
 👁‍🗨 قفل + الامر ⇐ للقفل ⇑ 
 👁‍🗨  فتح + الامر ⇐ للفتح ⇑ 
 ✈️➖➖➖➖➖➖➖✈️
-🔭 DE1 @illOlli  
- 🔭DE2 @Sadikal_knani10
-🔬CH1 @KINGTELE1 
+🔭 DEV : @Gowadbd
+   CH : @arabic_android
     ]] 
   reply_msg(reply_id, ghost, ok_cb, false) 
 end 
 
 local reply_id = msg['id'] 
 if not is_momod(msg) then 
-local ghost = "Only Owner or Mod !" 
+local ghost = "عذرا  هذا الامر للمدراء فقط💡" 
 reply_msg(reply_id, ghost, ok_cb, false) 
 end 
 
