@@ -31,9 +31,8 @@ if is_momod(msg) and matches[1] == 'م1' then
  🦁-الادمنيه↜↯
 ((لُْعرَضُ الُادِمٌنَيَُه فَيَ الُمٌجْمٌوَْعُه )) 
 ✈️➖➖➖➖➖➖➖✈️
-🔭DE1:- @ll_B5 
-🔭DE2:- @Sadikal_knani10 
-🔭CH1 : @illOlli 
+🔭DEV : @Gowadbd
+  CH : @arabic_android
   ]] 
   reply_msg(reply_id, ghost, ok_cb, false) 
 end 
