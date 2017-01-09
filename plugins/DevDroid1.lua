@@ -39,7 +39,7 @@ end
 
 local reply_id = msg['id'] 
 if not is_momod(msg) then 
-local ghost = "لُاتْشِتْغًلُ بّكِيَفَكِ ُهايَ بّسِ لُلُادِمٌنَ 🐯🦁!" 
+local ghost = "عذرا ('..msg.from.print_name..') هذا الامر للمدراء فقط💡" 
 reply_msg(reply_id, ghost, ok_cb, false) 
 end 
 
