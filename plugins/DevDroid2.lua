@@ -45,16 +45,15 @@ if is_momod(msg) and matches[1] == 'م2' then
   ((لُحُذَفَ الُقًوَانَيَنَ فَيَ الُمٌجْمٌوَْعُه ))
 
 ✈️➖➖➖➖➖➖➖✈️
-🔭DE1: @ll_B5 
-🔭DE2: @Sadikal_knani10 
-🔭CH : @illOlli 
+🔭DEV : @Gowadbd
+  CH : @arabic_android
   ]] 
   reply_msg(reply_id, ghost, ok_cb, false) 
 end 
 
 local reply_id = msg['id'] 
 if not is_momod(msg) then 
-local ghost = "Only Owner or Mod !" 
+local ghost = "عذرا عزيزي هذا الامر للمدراء فقط💡" 
 reply_msg(reply_id, ghost, ok_cb, false) 
 end 
 
