@@ -2,7 +2,7 @@ do
 
 function run(msg, matches) 
   return [[ 
-       🔱KING TELE BOT🔱 
+       🔱DevDroid BOT🔱 
     ✈️➖➖➖➖➖➖➖✈️
          
 🦁 م1 ↜↯
@@ -21,9 +21,8 @@ function run(msg, matches)
         ((لُْعـرَضُ اوَامٌرَ الُمٌطِوَرَ  ))  
   
     ✈️➖➖➖➖➖➖➖✈️
-🔬DE1: @ll_B5
-🔬DE2:@Sadikal_knani10 
-🔭CH1: @illOlli
+🔬DEV : @Gowadbd
+  CH : @arabic_android
 ]] 
 
 end 
